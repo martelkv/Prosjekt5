@@ -3,7 +3,7 @@
 
 ### How to run the program
 - ```g++ *.cpp -o a``` to compile.  
-- ´´´./a``` to run.  
+- ``./a``` to run.  
 
 ### How to obtain the plots
 
