@@ -2,8 +2,8 @@
 *Authors: Jelena Jankovic and Marte Lunde Kvam*. 
 
 ### How to run the program
-- ´´´g++ *.cpp -o a´´´ to compile.  
-- ´´´./a´´´ to run.  
+- ```g++ *.cpp -o a``` to compile.  
+- ´´´./a``` to run.  
 
 ### How to obtain the plots
 
