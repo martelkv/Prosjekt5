@@ -8,7 +8,7 @@
 ### How to obtain the plots
 To obtain the plots, first run the program, then execute  ```python plot.py```.  
   - This command will run the file **plot.py** and use the txt-files in the **output/**-folder.  
-To obtain the plots from the results-section in the report, change these lines to *True* in **plot.py** like this:  
+To obtain the plots from the results-section in the report, change these lines to *True* in **plot.py** (starting from line 4 to 14) like this:  
 ```python3
 # To see the plots from section 3.1
 a = True
